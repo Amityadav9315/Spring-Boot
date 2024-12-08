@@ -9,6 +9,7 @@ public class MyClass {
 
     @GetMapping("amit")
     public String sayHello(){
+
         return "Hello";
     }
 
